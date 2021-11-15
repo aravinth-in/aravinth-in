@@ -15,7 +15,14 @@
 
 Hi there, I'm **Aravinth S**, a Electronics and Communication Engineering student from **College of Engineering, Guindy, Anna University**, Tamil Nadu, India.
 
+**Talking about Personal Stuffs:**
 
+- 💼 I’m pursuing a Bachelor's degree in Electronics and Communication Engineering(Batch 2022)
+- 👨🏽‍💻 I’m currently upgrading my DSA Skills
+- 🤔 My Interests are with Software development,AI,Data Science
+- 😶 My Favourite pass time is to watch Tech & Startup News
+- 💬 Ask me about Tech, Coding, Startups, Cryptocurrency, I am happy to share what I've discovered so far
+- 📫 Email at aravinthsaravanan4285@gmail.com to reach me
 
 
 
