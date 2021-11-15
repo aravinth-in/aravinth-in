@@ -6,6 +6,9 @@
 <a href="https://leetcode.com/aravinthin/">
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://twitter.com/aravinth_in">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 
 <br />
 <br />
