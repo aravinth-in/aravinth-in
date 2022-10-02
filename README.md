@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Aravinth S**, a Electronics and Communication Engineering student from **College of Engineering, Guindy, Anna University**, Tamil Nadu, India.
+Hi there, I'm **Aravinth S**, studied Electronics and Communication Engineering student at **College of Engineering, Guindy, Anna University**, Tamil Nadu, India.
 
 **Talking about Personal Stuffs:**
 
