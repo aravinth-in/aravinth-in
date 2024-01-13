@@ -18,7 +18,7 @@ Hi there, I'm **Aravinth S**, studied Electronics and Communication Engineering 
 
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently woring as a Backend Engineer at Logitech
+- 💼 I’m currently working as a Backend Engineer at Logitech
 - 👨🏽‍💻 I’m currently upgrading my DSA Skills
 - 🤔 My Interests are with Software development, Web 3
 - 💬 Ask me about Tech, Coding, Startups, Cryptocurrency, I am happy to share what I've discovered so far
