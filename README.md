@@ -18,10 +18,9 @@ Hi there, I'm **Aravinth S**, studied Electronics and Communication Engineering 
 
 **Talking about Personal Stuffs:**
 
-- 💼 I’m pursuing a Bachelor's degree in Electronics and Communication Engineering(Batch 2022)
+- 💼 I’m currently woring as a Backend Engineer at Logitech
 - 👨🏽‍💻 I’m currently upgrading my DSA Skills
-- 🤔 My Interests are with Software development ,AI, Data Science
-- 😶 My Favourite pass time is to watch Tech & Startup News
+- 🤔 My Interests are with Software development, Web 3
 - 💬 Ask me about Tech, Coding, Startups, Cryptocurrency, I am happy to share what I've discovered so far
 - 📫 Email at aravinthsaravanan4285@gmail.com to reach me
 
